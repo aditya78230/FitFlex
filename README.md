@@ -9,4 +9,3 @@
 - ### Used Tech Stack: 
     `Flask Framework`, `Python`, `SQLite`, `JavaScript`, `Bootstrap`, `HTML`, `CSS`.
 
-## Link: https://fitness-webapp.onrender.com/home
